@@ -23,4 +23,4 @@ Please fork this repository and then is review
 
 ### Copyright
 
-2014 Git.Starting
+2014 Git.Starting. All rigtht
